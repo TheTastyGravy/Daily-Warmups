@@ -11,6 +11,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "03 - RPNCalculator", "03 - 
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "04 - CountOccurances", "04 - CountOccurances\04 - CountOccurances.vcxproj", "{1AE85ADD-75DC-435A-A151-2AC1BE274934}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "05 - MaxDifference", "05 - MaxDifference\05 - MaxDifference.vcxproj", "{A1391E98-784B-496D-88C8-60E6D95944DF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -51,6 +53,14 @@ Global
 		{1AE85ADD-75DC-435A-A151-2AC1BE274934}.Release|x64.Build.0 = Release|x64
 		{1AE85ADD-75DC-435A-A151-2AC1BE274934}.Release|x86.ActiveCfg = Release|Win32
 		{1AE85ADD-75DC-435A-A151-2AC1BE274934}.Release|x86.Build.0 = Release|Win32
+		{A1391E98-784B-496D-88C8-60E6D95944DF}.Debug|x64.ActiveCfg = Debug|x64
+		{A1391E98-784B-496D-88C8-60E6D95944DF}.Debug|x64.Build.0 = Debug|x64
+		{A1391E98-784B-496D-88C8-60E6D95944DF}.Debug|x86.ActiveCfg = Debug|Win32
+		{A1391E98-784B-496D-88C8-60E6D95944DF}.Debug|x86.Build.0 = Debug|Win32
+		{A1391E98-784B-496D-88C8-60E6D95944DF}.Release|x64.ActiveCfg = Release|x64
+		{A1391E98-784B-496D-88C8-60E6D95944DF}.Release|x64.Build.0 = Release|x64
+		{A1391E98-784B-496D-88C8-60E6D95944DF}.Release|x86.ActiveCfg = Release|Win32
+		{A1391E98-784B-496D-88C8-60E6D95944DF}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
