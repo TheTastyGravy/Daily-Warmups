@@ -17,6 +17,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "06 - RecordTime", "06 - Rec
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "07 - RecursiveWalkOverBinaryTree", "07 - RecursiveWalkOverBinaryTree\07 - RecursiveWalkOverBinaryTree.vcxproj", "{CEFC5E2A-EC8A-4EF3-A67C-9953166C4746}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "09 - ValidHexCode", "09 - ValidHexCode\09 - ValidHexCode.vcxproj", "{A3832B63-C606-4657-93F7-21230147CCAE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -81,6 +83,14 @@ Global
 		{CEFC5E2A-EC8A-4EF3-A67C-9953166C4746}.Release|x64.Build.0 = Release|x64
 		{CEFC5E2A-EC8A-4EF3-A67C-9953166C4746}.Release|x86.ActiveCfg = Release|Win32
 		{CEFC5E2A-EC8A-4EF3-A67C-9953166C4746}.Release|x86.Build.0 = Release|Win32
+		{A3832B63-C606-4657-93F7-21230147CCAE}.Debug|x64.ActiveCfg = Debug|x64
+		{A3832B63-C606-4657-93F7-21230147CCAE}.Debug|x64.Build.0 = Debug|x64
+		{A3832B63-C606-4657-93F7-21230147CCAE}.Debug|x86.ActiveCfg = Debug|Win32
+		{A3832B63-C606-4657-93F7-21230147CCAE}.Debug|x86.Build.0 = Debug|Win32
+		{A3832B63-C606-4657-93F7-21230147CCAE}.Release|x64.ActiveCfg = Release|x64
+		{A3832B63-C606-4657-93F7-21230147CCAE}.Release|x64.Build.0 = Release|x64
+		{A3832B63-C606-4657-93F7-21230147CCAE}.Release|x86.ActiveCfg = Release|Win32
+		{A3832B63-C606-4657-93F7-21230147CCAE}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
