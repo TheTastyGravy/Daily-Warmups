@@ -21,6 +21,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "09 - ValidHexCode", "09 - V
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "08 - FindOddIntCount", "08 - FindOddIntCount\08 - FindOddIntCount.vcxproj", "{51BF1651-AF3C-4E80-885A-45E27E545CEF}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "10 - Blackjack", "10 - Blackjack\10 - Blackjack.vcxproj", "{6213359C-C75E-4D4C-8814-D7B5CBC62D1C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -101,6 +103,14 @@ Global
 		{51BF1651-AF3C-4E80-885A-45E27E545CEF}.Release|x64.Build.0 = Release|x64
 		{51BF1651-AF3C-4E80-885A-45E27E545CEF}.Release|x86.ActiveCfg = Release|Win32
 		{51BF1651-AF3C-4E80-885A-45E27E545CEF}.Release|x86.Build.0 = Release|Win32
+		{6213359C-C75E-4D4C-8814-D7B5CBC62D1C}.Debug|x64.ActiveCfg = Debug|x64
+		{6213359C-C75E-4D4C-8814-D7B5CBC62D1C}.Debug|x64.Build.0 = Debug|x64
+		{6213359C-C75E-4D4C-8814-D7B5CBC62D1C}.Debug|x86.ActiveCfg = Debug|Win32
+		{6213359C-C75E-4D4C-8814-D7B5CBC62D1C}.Debug|x86.Build.0 = Debug|Win32
+		{6213359C-C75E-4D4C-8814-D7B5CBC62D1C}.Release|x64.ActiveCfg = Release|x64
+		{6213359C-C75E-4D4C-8814-D7B5CBC62D1C}.Release|x64.Build.0 = Release|x64
+		{6213359C-C75E-4D4C-8814-D7B5CBC62D1C}.Release|x86.ActiveCfg = Release|Win32
+		{6213359C-C75E-4D4C-8814-D7B5CBC62D1C}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
